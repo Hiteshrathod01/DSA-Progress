@@ -1,3 +1,4 @@
 # DSA-Progress
 Track of my DSA Progress
-Author - Hitesh rathod
+<br>
+<b>Author - Hitesh rathod </b>
